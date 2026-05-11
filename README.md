@@ -1,12 +1,21 @@
 # odin-recipes
-Hello Odin! It's My First Project
+WELCOME ALL!!!
 
-Odin Recipes is name of my first odin project. Project contains details about three different types of recipes by their names,linked to their respective descriptive webpage using HTML.
+## Links
+ - {Landing Page}(https://bharathanraj777.github.io/odin-recipes/)
 
-my HTML basic skills are demonstrated.
+ - {Assignment}(https://www.theodinproject.com/lessons/foundations-recipes)
 
-Initially having some difficulties with GitHub commit and publishing, but i sorted it out very soon using git merge and GitHub Docs - dealing with non-fast-forward errors.
-So over it was good learning experience, getting forward into curriculum learning path.
+## About
+This repository is about Project Odin Recipes for The Odin Project. This odin recipes utilizes basics of HTML to display the contents of the webpage.
+
+Above link of Landing Page redirects to homepage, which contains links, which inturn redirects to respective webpages. Homepage contains details about three different types of recipes by their names. Each recipes as Image, Description, Ingredients required, Steps of preparation. Details mentioned below:-
+
+### Homepage
+ - Tirumala Laddu
+ - German Chocolate Dump Cake
+ - Indian Chicken Tikka Masala 
+
+Overall it was good learning experience, moving further into curriculum.
 
 Thank You
-
