@@ -2,9 +2,9 @@
 WELCOME ALL!!!
 
 ## Links
- - {Landing Page}(https://bharathanraj777.github.io/odin-recipes/)
+ - [Landing Page](https://bharathanraj777.github.io/odin-recipes/)
 
- - {Assignment}(https://www.theodinproject.com/lessons/foundations-recipes)
+ - [Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
 
 ## About
 This repository is about Project Odin Recipes for The Odin Project. This odin recipes utilizes basics of HTML to display the contents of the webpage.
